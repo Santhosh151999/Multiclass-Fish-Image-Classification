@@ -1,4 +1,4 @@
-# Multiclass-Fish-Image-Classification  -- project 05
+# Multiclass-Fish-Image-Classification  
 
 Multiclass Fish Image Classification – Streamlit App
 This project is a multiclass fish image classification web application built using Streamlit and PyTorch. It allows users to upload an image of a fish and uses a custom-trained convolutional neural network to identify the fish species among 11 distinct categories. The app features a modern, stylish interface with a vibrant gradient background and a glassy content layout, providing an engaging user experience while delivering fast and accurate predictions.
